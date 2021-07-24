@@ -1,0 +1,2 @@
+# wordpress-test
+wordpressのテスト用
